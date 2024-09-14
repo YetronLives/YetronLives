@@ -7,7 +7,7 @@
   - LINKEDIN : https://www.linkedin.com/in/constant-nortey/ 
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I can speak 3 Languages (Not programming languages hehe)
-Check out my Portfolio Website ! --> https://constantnorteyjrportfolio.netlify.app/
+- Check out my Portfolio Website ! --> https://constantnorteyjrportfolio.netlify.app/
 <!---
 YetronLives/YetronLives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
